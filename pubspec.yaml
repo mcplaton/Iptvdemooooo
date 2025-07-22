@@ -1,8 +1,6 @@
-
-name: iptv_demo
-description: تجربة قناة بث مباشر باستخدام Flutter
-publish_to: "none"
-
+name: iptv_app
+description: تجربة بث مباشر لقناة واحدة باستخدام Flutter و Better Player.
+publish_to: 'none'
 version: 1.0.0+1
 
 environment:
