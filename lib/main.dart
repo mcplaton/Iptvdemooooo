@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import 'package:better_player/better_player.dart';
 
